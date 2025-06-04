@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3
+- updated dependencies
+
 ## 1.0.2
 - update pubspec repository URL
 
